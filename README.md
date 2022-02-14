@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently working on a VTEX project
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2021 Goals: Re-start the development of the TEGRA PROJECT
+- 🥅 2022 Goals: Learn more of IaC 
 - ⚡ Fun fact: I love to tinker with everything that's electrically or mechanically powered!
 
 <br />
