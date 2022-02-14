@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Lorenzo 👋
 
-## I'm a super passionate junior frontend developer
+## I'm a super passionate junior frontend developer, dev op wannabe
 
 <!-- - 🔭 ust launched my first course: [Become A VS Code SuperHero!][course]! -->
 
