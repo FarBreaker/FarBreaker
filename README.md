@@ -2,13 +2,13 @@
 
 ### Hi there, I'm Lorenzo 👋
 
-## I'm a super passionate junior frontend developer, dev op wannabe
+## I'm a super passionate frontend developer with some small backend and systema administrator skills. My Goal is to become a DevOps Engineer
 
 <!-- - 🔭 ust launched my first course: [Become A VS Code SuperHero!][course]! -->
 
 - 🌱 I'm currently working on a VTEX project
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Learn more of IaC 
+- 🥅 2022 Goals: Become a full fledged DevOps engineer
 - ⚡ Fun fact: I love to tinker with everything that's electrically or mechanically powered!
 
 <br />
