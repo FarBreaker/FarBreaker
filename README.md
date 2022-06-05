@@ -34,4 +34,7 @@
 - Jenkins 
 - Docker
 - Grafana
+- Prometheus
+
+## I'm starting to learn Go Lang which should be game changer for my pipelines
 
