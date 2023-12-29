@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on VTEX Commerce for Whirlpool Corporation as a project manager <br>👯 I’m looking to collaborate on DevOps workflow projects <br>🤝 I’m looking for help with data analysis and data visualization<br>🌱 I’m currently learning automation software and tools like zapier and UIPath<br>💬 Ask me about React, AstroJS, scss, Jenkins or Docker<br>⚡ Fun fact, I'm super in love with Japanese and Korean cloths and fashion
+🔭 I’m currently working for Lottomatica IGT as Solution Architect <br>👯 I'm looking for new challenges to put my skills to the test <br>🤝 I’m looking for help with data analysis and data visualization<br>🌱 I’m currently learning CDK and Rust<br>💬 Ask me about React, AstroJS, scss, Jenkins or Docker<br>⚡ Fun fact, I'm super in love with Japanese and Korean cloths and fashion
 
 
 ## 🌐 Socials:
